@@ -1,3 +1,5 @@
+/*Girilen 3 sayıyı "küçükten büyüğe" sıralayan program*/
+
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
