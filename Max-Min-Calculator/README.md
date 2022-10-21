@@ -1,4 +1,4 @@
-# Java ile klavyeden girilen N tane sayma sayısından en büyük ve en küçük sayıları bulan ve bu sayıları ekrana yazan programı yazın.
+# Java ile klavyeden girilen N tane sayma sayısından en büyük ve en küçük sayıları bulan ve bu sayıları ekrana yazan program.
 
 ### Senaryo
 #### Kaç tane sayı gireceksiniz: 4
